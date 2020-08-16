@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Exercicio_15_08_2020</string>
+    <string name="login">LOGIN</string>
+    <string name="usuario">Usuário</string>
+    <string name="usuario_editText">Números do prontuário</string>
+    <string name="senha">Senha</string>
+    <string name="login_sucesso"></string>
+    <string name="erro"></string>
+</resources>
